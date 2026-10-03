@@ -1,0 +1,78 @@
+{
+  "reportei-conta-analista-de-audiencia": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "metricas-e-integracoes.md"
+  ],
+  "reportei-conta-analista-de-performance": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "metricas-e-integracoes.md"
+  ],
+  "reportei-conta-analista-de-redes-sociais": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "metricas-e-integracoes.md"
+  ],
+  "reportei-conta-analista-de-site": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "metricas-e-integracoes.md"
+  ],
+  "reportei-conta-assistente-de-automacao": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "metricas-e-integracoes.md",
+    "seguranca-de-escrita.md"
+  ],
+  "reportei-conta-coach-de-metas": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "metricas-e-integracoes.md",
+    "seguranca-de-escrita.md"
+  ],
+  "reportei-conta-comparador-de-periodos": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "metricas-e-integracoes.md"
+  ],
+  "reportei-conta-especialista-em-conteudo": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "metricas-e-integracoes.md"
+  ],
+  "reportei-conta-gerador-de-relatorios": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "metricas-e-integracoes.md",
+    "seguranca-de-escrita.md"
+  ],
+  "reportei-conta-gestor-de-dashboard": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "metricas-e-integracoes.md",
+    "seguranca-de-escrita.md"
+  ],
+  "reportei-conta-historiador-da-conta": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "seguranca-de-escrita.md"
+  ],
+  "reportei-conta-monitor-de-anuncios": [
+    "conector-reportei.md",
+    "disciplina-de-evidencia.md",
+    "formato-de-resposta.md",
+    "metricas-e-integracoes.md"
+  ]
+}

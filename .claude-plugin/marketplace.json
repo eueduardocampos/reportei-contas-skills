@@ -1,0 +1,49 @@
+{
+  "name": "reportei-contas-skills",
+  "owner": {
+    "name": "Astronauta Martech",
+    "email": "contato@astronauta.digital"
+  },
+  "metadata": {
+    "description": "Skills da Astronauta Martech para entender uma conta no Reportei.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "reportei-contas",
+      "description": "Skills para entender uma conta no Reportei: desempenho, redes, site, anúncios, conteúdo, metas e relatórios, em linguagem de gente.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Astronauta Martech",
+        "email": "contato@astronauta.digital"
+      },
+      "homepage": "https://astronauta.digital/materiais/skills/reportei-contas",
+      "repository": "https://github.com/astronauta-martech/reportei-contas-skills",
+      "license": "SEE LICENSE IN LICENSE",
+      "keywords": [
+        "reportei",
+        "relatorios",
+        "marketing",
+        "agentes-de-ia",
+        "claude-code",
+        "codex"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/reportei-conta-analista-de-audiencia",
+        "./skills/reportei-conta-analista-de-performance",
+        "./skills/reportei-conta-analista-de-redes-sociais",
+        "./skills/reportei-conta-analista-de-site",
+        "./skills/reportei-conta-assistente-de-automacao",
+        "./skills/reportei-conta-coach-de-metas",
+        "./skills/reportei-conta-comparador-de-periodos",
+        "./skills/reportei-conta-especialista-em-conteudo",
+        "./skills/reportei-conta-gerador-de-relatorios",
+        "./skills/reportei-conta-gestor-de-dashboard",
+        "./skills/reportei-conta-historiador-da-conta",
+        "./skills/reportei-conta-monitor-de-anuncios"
+      ]
+    }
+  ]
+}

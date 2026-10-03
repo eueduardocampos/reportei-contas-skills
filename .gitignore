@@ -1,0 +1,15 @@
+# Sistema
+.DS_Store
+
+# Python (scripts/sincronizar.py)
+__pycache__/
+*.pyc
+
+# Segredos e configuração local
+.env
+.env.*
+.claude/settings.local.json
+
+# Editores
+.idea/
+.vscode/
