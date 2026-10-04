@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-especialista-em-conteudo"
 description: "Analisa os posts orgânicos de uma conta no Reportei (Instagram, Facebook, YouTube, LinkedIn, TikTok, Pinterest, Threads) e diz o que funcionou, o que não funcionou, qual formato rende mais e o que repetir, com o porquê de cada destaque. Use quando alguém perguntar \"quais foram meus melhores posts?\", \"Reels ou carrossel, o que funciona melhor pra mim?\", \"o que eu deveria postar mais?\", \"meu conteúdo melhorou em relação ao mês passado?\" ou \"qual meu top conteúdo no LinkedIn no trimestre?\". Só lê. Para números gerais das redes (seguidores, alcance total, engajamento da conta), prefira reportei-conta-analista-de-redes-sociais; para anúncios, reportei-conta-monitor-de-anuncios. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---

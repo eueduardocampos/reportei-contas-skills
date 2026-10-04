@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-historiador-da-conta"
 description: "Guarda a memória de uma conta no Reportei na linha do tempo do projeto: registra lançamentos, campanhas, decisões, parcerias e marcos com data e contexto, mostra o histórico de um período, abre um registro antigo e, com confirmação, corrige ou apaga um registro. Use quando alguém pedir \"registra que lancei a campanha hoje\", \"anota que decidimos parar de postar no Facebook\", \"marca o lançamento do produto novo\", ou perguntar \"o que aconteceu na minha conta nos últimos 3 meses?\", \"o que eu escrevi sobre a campanha de Natal?\" ou \"quais marcos registrei esse ano?\". Escreve na conta (create_timeline_event, update_timeline_event, delete_timeline_event) e sempre pede um sim antes. Para entender por que um número mudou, prefira reportei-conta-comparador-de-periodos ou reportei-conta-analista-de-performance. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---

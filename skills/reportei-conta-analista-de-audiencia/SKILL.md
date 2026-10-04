@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-analista-de-audiencia"
 description: "Mostra quem é o público real das redes sociais de uma conta no Reportei (idade, gênero, país e cidade no Instagram, Facebook, YouTube, LinkedIn, TikTok e Threads, quando a rede fornecer), compara as redes entre si e liga cada dado a uma decisão de conteúdo. Use quando alguém perguntar \"quem é meu público?\", \"qual a idade de quem me segue?\", \"de onde vêm meus seguidores?\", \"meu público no LinkedIn é diferente do Instagram?\" ou \"meu público é mais jovem do que eu imagino?\". Só lê. Não cobre público de anúncios nem visitantes do site; para desempenho de posts, prefira reportei-conta-especialista-em-conteudo; para seguidores e engajamento, reportei-conta-analista-de-redes-sociais. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---

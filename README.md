@@ -1,17 +1,16 @@
 # Skills do Reportei para contas
 
-Skills para **Claude Code** e **Codex** entenderem uma conta no **Reportei** em linguagem de gente: como foi o marketing, redes sociais, site, anúncios, conteúdo, público e metas, além de criar relatórios, dashboards e envios automáticos, a partir de pedidos em português. Feitas pela [Astronauta Martech](https://astronauta.digital).
+Skills para **Claude Code** e **Codex** entenderem uma conta no **Reportei** em linguagem de gente: como foi o marketing, redes sociais, site, anúncios, conteúdo, público e metas, além de criar relatórios, dashboards e envios automáticos, a partir de pedidos em português. Feitas por [Eduardo Campos](https://github.com/eueduardocampos), conselheiro da Astronauta Martech, e validadas ao vivo na Astronauta Martech.
 
 Cada skill foi testada ao vivo com o conector oficial do Reportei antes de entrar aqui.
 
-Página do pacote: [astronauta.digital/materiais/skills/reportei-contas](https://astronauta.digital/materiais/skills/reportei-contas)
 
 ## Instalação
 
 ### Claude Code e Codex, com um comando
 
 ```bash
-npx skills add astronauta-martech/reportei-contas-skills -g
+npx skills add eueduardocampos/reportei-contas-skills -g
 ```
 
 O instalador pergunta quais skills você quer e em qual ferramenta instalar. O `-g` instala na sua pasta de usuário, e as skills valem em qualquer projeto.
@@ -19,21 +18,21 @@ O instalador pergunta quais skills você quer e em qual ferramenta instalar. O `
 ### Claude Code, como plugin
 
 ```
-/plugin marketplace add astronauta-martech/reportei-contas-skills
+/plugin marketplace add eueduardocampos/reportei-contas-skills
 /plugin install reportei-contas@reportei-contas-skills
 ```
 
 ### Manual
 
 ```bash
-git clone https://github.com/astronauta-martech/reportei-contas-skills.git
+git clone https://github.com/eueduardocampos/reportei-contas-skills.git
 mkdir -p ~/.claude/skills
 cp -R reportei-contas-skills/skills/* ~/.claude/skills/
 ```
 
 No Codex, o destino é `~/.agents/skills/`.
 
-Se você é agência e quer a visão da carteira inteira, veja também o pacote [reportei-agencia-skills](https://github.com/astronauta-martech/reportei-agencia-skills).
+Se você é agência e quer a visão da carteira inteira, veja também o pacote [reportei-agencia-skills](https://github.com/eueduardocampos/reportei-agencia-skills).
 
 ## As skills
 
@@ -95,8 +94,6 @@ Edite sempre em `base/` e rode `python3 scripts/sincronizar.py`. Para contribuir
 
 ## Licença
 
-Resumo: **pode usar, adaptar, compartilhar de graça e cobrar pelo trabalho que fizer com estas skills, inclusive para clientes e inclusive sendo concorrente. Não pode cobrar pelas skills em si** (revender, sublicenciar ou incluí-las em produto pago, como curso, pacote de templates, assinatura, marketplace ou loja de plugins). O que as skills produzem no seu uso (análises, relatórios, briefings, dashboards e metas) pode ser usado livremente, inclusive de forma comercial, desde que não reproduza parte substancial das skills. Toda cópia ou adaptação mantém o aviso de licença e o crédito à Astronauta Martech.
-
-Texto completo em [LICENSE](LICENSE). Não é uma licença de código aberto no sentido da OSI: o conteúdo é aberto para ler, usar e adaptar, mas não para vender. Copyright © 2026 Astronauta Digital LTDA.
+[MIT](LICENSE) © 2026 Eduardo Campos. Uso livre e gratuito, inclusive comercial, com o aviso de licença mantido.
 
 Reportei, Claude e Codex são marcas de seus respectivos titulares. Este projeto não é afiliado nem endossado por eles.

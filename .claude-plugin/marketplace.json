@@ -1,25 +1,25 @@
 {
   "name": "reportei-contas-skills",
   "owner": {
-    "name": "Astronauta Martech",
-    "email": "contato@astronauta.digital"
+    "name": "Eduardo Campos",
+    "email": "eduardo.campos@astronauta.digital"
   },
   "metadata": {
-    "description": "Skills da Astronauta Martech para entender uma conta no Reportei.",
-    "version": "0.1.0"
+    "description": "Skills de Eduardo Campos, validadas na Astronauta Martech, para entender uma conta no Reportei.",
+    "version": "0.1.1"
   },
   "plugins": [
     {
       "name": "reportei-contas",
       "description": "Skills para entender uma conta no Reportei: desempenho, redes, site, anúncios, conteúdo, metas e relatórios, em linguagem de gente.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
-        "name": "Astronauta Martech",
-        "email": "contato@astronauta.digital"
+        "name": "Eduardo Campos",
+        "email": "eduardo.campos@astronauta.digital"
       },
-      "homepage": "https://astronauta.digital/materiais/skills/reportei-contas",
-      "repository": "https://github.com/astronauta-martech/reportei-contas-skills",
-      "license": "SEE LICENSE IN LICENSE",
+      "homepage": "https://github.com/eueduardocampos/reportei-contas-skills",
+      "repository": "https://github.com/eueduardocampos/reportei-contas-skills",
+      "license": "MIT",
       "keywords": [
         "reportei",
         "relatorios",

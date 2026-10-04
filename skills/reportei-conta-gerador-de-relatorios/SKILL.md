@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-gerador-de-relatorios"
 description: "Cria um relatório estático de uma conta no Reportei para um período e entrega o link para compartilhar, sem a pessoa precisar abrir a plataforma: resolve o projeto, confere se já existe relatório igual, escolhe as integrações ativas e o modelo padrão, mostra tudo antes e só cria depois de um sim. Use quando alguém pedir \"cria meu relatório de setembro\", \"preciso do relatório do mês passado\", \"gera um relatório do trimestre comparando com o anterior\" ou \"me manda o link do relatório de agosto\". Escreve na conta (create_report) e o relatório não pode ser apagado pelo conector. Para um link que se atualiza sozinho, prefira reportei-conta-gestor-de-dashboard; para envio todo mês sem pedir, reportei-conta-assistente-de-automacao; para entender os números, reportei-conta-analista-de-performance. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---

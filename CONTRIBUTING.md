@@ -40,4 +40,4 @@ Mudança publicada ganha entrada no `CHANGELOG.md` e atualização da versão em
 
 ## Licença das contribuições
 
-Ao contribuir, você autoriza a Astronauta Digital LTDA a usar, modificar e distribuir sua contribuição sob a licença deste repositório ([LICENSE](LICENSE)).
+Ao contribuir, você aceita que sua contribuição seja distribuída sob a licença MIT deste repositório ([LICENSE](LICENSE)).

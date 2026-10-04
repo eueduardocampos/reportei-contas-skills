@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-analista-de-performance"
 description: "Responde em linguagem simples como foi o marketing de uma conta no Reportei num período, juntando todas as plataformas conectadas (redes sociais, anúncios, site, CRM, loja, email): o que se destacou, o que piorou e onde prestar atenção. Use quando alguém perguntar \"como foi meu marketing esse mês?\", \"me dá um resumo de como estou\", \"melhorei ou piorei?\", \"qual canal está me trazendo mais resultado?\" ou \"o que os números de setembro dizem?\". Só lê. Para mergulhar numa plataforma, prefira reportei-conta-analista-de-redes-sociais, reportei-conta-monitor-de-anuncios ou reportei-conta-analista-de-site; para comparar dois períodos com detalhe, reportei-conta-comparador-de-periodos. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---

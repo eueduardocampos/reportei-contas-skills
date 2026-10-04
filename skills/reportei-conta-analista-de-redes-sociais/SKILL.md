@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-analista-de-redes-sociais"
 description: "Mergulha nas redes sociais orgânicas de uma conta no Reportei (Instagram, Facebook, LinkedIn, TikTok, YouTube, Threads, Pinterest): crescimento de seguidores, alcance, engajamento, qual rede vai melhor e onde vale concentrar esforço, em linguagem simples. Use quando alguém perguntar \"como estão minhas redes sociais?\", \"estou crescendo no Instagram?\", \"quantos seguidores ganhei esse mês?\", \"meu engajamento está bom?\", \"vale a pena continuar no LinkedIn?\" ou \"qual rede devo priorizar?\". Só lê. Para o resumo de todos os canais, prefira reportei-conta-analista-de-performance; para anúncios, reportei-conta-monitor-de-anuncios; para post a post, reportei-conta-especialista-em-conteudo; para quem é o público, reportei-conta-analista-de-audiencia. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---

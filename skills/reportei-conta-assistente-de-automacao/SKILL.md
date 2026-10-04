@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-assistente-de-automacao"
 description: "Configura o envio automático de relatório de uma conta no Reportei (semanal, quinzenal ou mensal, por e-mail, WhatsApp ou aviso dentro do Reportei), para a pessoa nunca mais precisar lembrar de gerar o relatório. Também mostra as automações que já existem, muda horário, destinatários ou canal, e pausa ou retoma o envio. Sempre confere o que já existe, mostra tudo antes e só escreve depois de um sim; depois de criada, a automação é conferida e deixada desligada, e só é ativada com outro sim. Use quando alguém pedir \"quero receber meu relatório todo mês\", \"configura o envio automático\", \"muda o horário para as 9h\", \"adiciona outro e-mail\", \"pausa o envio\" ou perguntar \"quando chega o próximo relatório?\". Escreve na conta (create_automation, update_automation, toggle_automation). Para um relatório agora, prefira reportei-conta-gerador-de-relatorios; para um link ao vivo, reportei-conta-gestor-de-dashboard. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---

@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-monitor-de-anuncios"
 description: "Mostra em linguagem simples como estão os anúncios de uma conta no Reportei (Meta Ads, Google Ads, TikTok Ads, LinkedIn Ads e outras plataformas pagas conectadas): quanto foi investido, quanto voltou, custo por resultado, cliques e onde o dinheiro rende menos, com hipóteses para quedas e as recomendações de otimização que o Reportei calcula para Meta Ads. Use quando alguém perguntar \"quanto gastei em anúncios?\", \"meus anúncios estão dando retorno?\", \"meu ROAS caiu, o que aconteceu?\", \"vale mais investir no Google ou no Facebook?\", \"qual campanha está melhor?\" ou \"o que dá para melhorar no Meta Ads?\". Só lê: não pausa, não cria e não altera campanha. Para posts orgânicos, prefira reportei-conta-especialista-em-conteudo; para visão de todos os canais, reportei-conta-analista-de-performance. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---

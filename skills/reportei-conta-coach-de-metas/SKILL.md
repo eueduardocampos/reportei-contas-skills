@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-coach-de-metas"
 description: "Acompanha e cria metas de marketing numa conta do Reportei: mostra como estão as metas (no ritmo, no limite, fora do ritmo), projeta se cada uma vai ser batida, calibra metas novas pelo histórico da própria conta e, com confirmação, cria meta, muda o alvo ou liga alertas. Use quando alguém perguntar \"como estão minhas metas?\", \"vou bater a meta de seguidores esse mês?\", \"quanto falta para a meta de leads?\", ou pedir \"cria uma meta de 500 conversões por mês\", \"aumenta minha meta para 15 mil\" ou \"me avisa quando bater a meta\". Escreve na conta (create_goal, update_goal) e sempre pede um sim antes. Para entender o desempenho geral sem meta, prefira reportei-conta-analista-de-performance. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---

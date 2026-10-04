@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-gestor-de-dashboard"
 description: "Encontra ou cria um dashboard ao vivo de uma conta no Reportei: um link permanente que mostra os números atualizados toda vez que é aberto. Primeiro procura se já existe dashboard e entrega o link; só cria um novo depois de mostrar período, plataformas e modelo e receber um sim. Use quando alguém pedir \"tenho algum dashboard?\", \"me manda o link do meu painel\", \"quero um link que sempre mostre meus números\", \"cria um dashboard ao vivo de 2026\" ou perguntar a diferença entre dashboard e relatório. Escreve na conta (create_dashboard) e o dashboard não pode ser apagado pelo conector. Para um retrato fixo de um período, prefira reportei-conta-gerador-de-relatorios; para envio automático, reportei-conta-assistente-de-automacao; para entender os números, reportei-conta-analista-de-performance. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---

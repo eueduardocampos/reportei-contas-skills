@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-analista-de-site"
 description: "Explica em linguagem simples o que acontece no site de uma conta no Reportei: quantas pessoas chegam, de onde vêm, o que fazem, quantas viram contato ou venda e como o site aparece no Google, usando Google Analytics 4, Search Console e loja virtual conectada (Shopify, WooCommerce). Use quando alguém perguntar \"como está meu site?\", \"quantas visitas tive em setembro?\", \"de onde vêm meus visitantes?\", \"meu SEO está funcionando?\", \"como estou no Google?\" ou \"como estão as vendas da loja?\". Só lê. Para o resumo de todos os canais, prefira reportei-conta-analista-de-performance; para redes sociais, reportei-conta-analista-de-redes-sociais; para anúncios, reportei-conta-monitor-de-anuncios. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---

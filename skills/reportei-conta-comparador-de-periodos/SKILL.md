@@ -1,10 +1,10 @@
 ---
 name: "reportei-conta-comparador-de-periodos"
 description: "Responde \"estou melhor ou pior do que antes?\" para uma conta no Reportei: compara dois períodos em todas as plataformas conectadas, mostra o que cresceu, o que caiu e o que ficou parado, com variação em número e em percentual, e fecha com uma conclusão de uma linha. Use quando alguém perguntar \"estou melhor ou pior que o mês passado?\", \"compara setembro com agosto\", \"evoluí no trimestre?\", \"como foi esse ano contra o ano passado?\" ou \"o que puxou o crescimento esse mês?\". Só lê. Para um resumo do período sem foco em comparação, prefira reportei-conta-analista-de-performance; para detalhar uma plataforma, reportei-conta-analista-de-redes-sociais, reportei-conta-monitor-de-anuncios ou reportei-conta-analista-de-site; para gerar um relatório comparativo para enviar, reportei-conta-gerador-de-relatorios. Requer o conector MCP do Reportei."
-license: "Licença de Uso Astronauta Martech 1.0. Pode usar e cobrar por serviços feitos com esta skill; não pode vender a skill. Termos completos em LICENSE."
+license: "MIT"
 metadata:
-  version: "0.1.0"
-  author: "Astronauta Martech"
+  version: "0.1.1"
+  author: "Eduardo Campos"
   produto: "Reportei"
   requer: "conector MCP do Reportei"
 ---
